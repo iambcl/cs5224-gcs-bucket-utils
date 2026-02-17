@@ -4,7 +4,7 @@
 - **Overview:** A small utility module to upload images to a Google Cloud Storage bucket and generate time-limited signed URLs for non-public access.
 
 **Requirements**
-- **Python:** >= 3.14
+- **Python:** >= 3.9
 - **Dependencies:** `python-dotenv`, `google-cloud-storage` (see `pyproject.toml`)
 
 **Overview**
